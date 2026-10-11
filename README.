@@ -1,0 +1,36 @@
+* Linux Web Server
+
+A beginner-friendly Linux server project built using Ubuntu and Nginx, focused on understanding how a web server is configured, hosted, tested, and accessed over a network.
+
+* Project Overview
+
+A Linux web server built using Ubuntu and Nginx. The default Nginx webpage was replaced with a custom HTML page and tested locally and through the VM's network IP.
+
+* Technologies
+
+- Ubuntu Linux
+- Nginx
+- HTML
+- Bash
+- VMware
+
+* What I Did
+
+- Installed and configured Nginx
+- Created a custom HTML webpage
+- Hosted it using Nginx
+- Tested it with `curl localhost`
+- Accessed it through the VM's IP
+- Verified the Nginx configuration
+
+* What I Learned
+
+Linux server administration, Nginx basics, file permissions, localhost, networking, and terminal-based troubleshooting.
+
+* Future Improvements
+
+- Cloud deployment
+- HTTPS
+- Custom domain
+- Server monitoring
+- Firewall configuration
